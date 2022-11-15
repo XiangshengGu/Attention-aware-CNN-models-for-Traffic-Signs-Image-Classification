@@ -4,3 +4,6 @@ Led a team of 4 and achieved the accuracy score on average of 98% by utilizing B
 
 Citation:
 Xiangsheng Gu, Qiuyi Lang, Fu Lin, Pengfei Wang, Attention-aware CNN Model for Traffic Signs Classification, accepted by the 2022 2nd International Conference on Big Data and Intelligent Algorithms(BDIA 2022) Proceedings.
+
+Dataset:
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
